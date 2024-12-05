@@ -1,7 +1,7 @@
 ### About me
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello, +👋;I'm This is DongWook Nam,+a developer who codes dreams.&center=true&size=30">
   </a>
 </h1>
 <h3 align="left">I am driven by the mission to make today brighter than yesterday!</h3>
