@@ -24,7 +24,6 @@ const dongwook = {
             js: ["React"],
             css: ["Sass", "Tailwind", "Bootstrap"],
         },
-        generativeAI: ["GPT", "Vectorization"],
     },
 };
 ```
