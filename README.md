@@ -13,42 +13,19 @@
 - 📄 Know about my experiences [https://www.notion.so/97c626127ec448ebaa11149bd05b839b](https://www.notion.so/97c626127ec448ebaa11149bd05b839b)
 
 <br />
-<p>A little more about me... </p>
+<p>A little more about me...😃 </p>
 
 ```javascript
-const anmol = {
+const dongwook = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    code: ["HTML", "CSS", "Javascript", "React", "Typescript"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React"],
             css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
         },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
         generativeAI: ["GPT", "Vectorization"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
 };
 ```
 
